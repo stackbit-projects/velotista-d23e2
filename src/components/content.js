@@ -18,7 +18,7 @@ const Content = () => (
         gridTemplateColumns: "repeat(auto-fit, minmax(240px, 340px))",
       }}
     >
-      
+    
     </content>
   </div>
 )
