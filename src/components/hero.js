@@ -4,7 +4,7 @@ import PropTypes from "prop-types"
 import Button from "../components/button"
 import headerImage from "../images/header.png"
 import BikeContent from "./image"
-import Bicycle from "../images/mockup-frame.png"
+import Bicycle from "../images/bicycle.png"
 
 const Header = ({ siteTitle }) => (
   <div
