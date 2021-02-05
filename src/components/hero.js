@@ -3,7 +3,7 @@ import PropTypes from "prop-types"
 
 import Button from "../components/button"
 import headerImage from "../images/header.png"
-import MockupContent from "./image"
+import BikeContent from "./image"
 import mockupFrame from "../images/mockup-frame.png"
 
 const Header = ({ siteTitle }) => (
