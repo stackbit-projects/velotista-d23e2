@@ -8,7 +8,7 @@ const Content = () => (
   <div style={{ padding: "4rem 1rem", textAlign: "center" }}>
     <SectionHeader
       title="Coming Soon"
-      description="Don't spend time ripping out unneeded plugins and bloat."
+      description="Bikes and parts and everything nice."
     />
     <content
       style={{
