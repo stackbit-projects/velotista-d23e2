@@ -12,7 +12,7 @@ const Header = ({ siteTitle }) => (
       display: "flex",
       alignItems: "center",
       flexDirection: "column",
-      padding: "4rem 1rem",
+      padding: "3rem 1rem",
     }}
   >
     <div
