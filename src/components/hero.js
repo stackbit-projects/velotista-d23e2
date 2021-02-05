@@ -28,7 +28,7 @@ const Header = ({ siteTitle }) => (
     />
     <h1 style={{ textAlign: "center" }}>velotista</h1>
     
-    <div style={{ margin: 60, width: `250px`, position: "relative" }}>
+    <div style={{ margin: 30, width: `250px`, position: "relative" }}>
       <div style={{ clipPath: "inset(2% 5% round 2% 5%)" }}>
         <BikeContent />
       </div>
